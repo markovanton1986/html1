@@ -7,3 +7,7 @@
 
 
 # Домашнее задание к занятию "Работа с HTML-формами"
+
+
+
+https://markovanton1986.github.io/html1/
